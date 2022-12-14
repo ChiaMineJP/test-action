@@ -1,2 +1,1 @@
-# test-action (update)
-Making conflict
+Reset content
